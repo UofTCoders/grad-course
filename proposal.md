@@ -30,8 +30,7 @@ Quantitative methods
 
 - best practices with high dimensional biomedical data
 - dimensionality reduction, visualization and signal feature analysis
-- Finding low-dimensional structure in large-scale
-- time series analysis
+- Finding low-dimensional structure in large-scale biomedical data
 - statistical learning framework
   - what is p-hacking and how to avoid it
 - predictive-analytic models: Choosing the Best Model
