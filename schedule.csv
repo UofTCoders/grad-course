@@ -1,0 +1,29 @@
+Week Number,Class number,Topic,Description
+1,1,"Introduction to course, to reproducibility, and to open scientific practices",
+1,2,Data analysis project setup and management,
+2,3,"Data management, storage, and structure (tidy data)","What tidy data is, how to save it (csv), don't edit raw data"
+2,4,Version control and collaboration with Git/GitHub,
+3,5,Introduction to Python,
+3,6,Best practices in programming in Python,
+4,7,Data wrangling in Python,Pandas
+4,8,Data visualization in Python and best practices,Seaborn
+5,9,Basic programming in Python,"Functions, DRY, conditionals"
+5,10,Exploratory data analysis,
+6,11,Basic statistics in Python,
+6,12,"Multivariate statistic techniques, high dimensional data","PCA, mixed models"
+7,13,Statistical learning in Python,sci-kit learn
+7,14,Creating reproducible documents with Jupyter Notebooks,
+8,15,Creating a pipeline from data wrangling to publication,"Integrate ideas behind project management, script dependencies, and reproducible documents"
+8,16,Publishing in the era of reproducibility and open science,"Git tags, Zenodo, preprint archives, open access"
+9,17,,
+9,18,,
+10,19,,
+10,20,,
+11,21,,
+11,22,,
+12,23,Project work,
+12,24,Project work,
+13,25,Project work,
+13,26,Project work,
+14,27,Project work,
+14,28,Project work,
